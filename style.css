@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #70c6c7;
+    background-color: #f4f6f6;
 }
 
 .resume-contents {
@@ -21,7 +21,7 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+    background-color: #3e55ff;
 }
 
 .right-section {
@@ -43,7 +43,7 @@ body {
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #1B2631;
+    border: 5px solid #ffffff;
 }
 
 .name {
@@ -96,7 +96,7 @@ body {
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #2E86C1;
+    color: #eff2f4;
 }
 
 .skills ul {
